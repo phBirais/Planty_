@@ -10,9 +10,17 @@ Planty é um gerenciador de plantas para sua casa onde você pode adicionar e se
 
 Para desenvolver este projeto, diversas tecnologias e libs foram utiilizadas. Abaixo estão listadas algumas e como foram aplicadas no App:
 
- - React Native
- - Expo
- - e
+- [ React Native](https://reactnative.dev/ "React Native"): Biblioteca Javascript criada pelo Facebook. É usada para desenvolver aplicativos para os sistemas Android e iOS de forma nativa.
+- [ Expo ](https://expo.io/ " Expo "): Plataforma de código aberto para fazer aplicativos nativos universais para Android, iOS e web com JavaScript e React.
+- [Axios](https://www.npmjs.com/package/react-native-axios "Axios"):Cliente HTTP baseado em promessa para o navegador e node.js;
+- Libs:
+   - [date-fns](https://date-fns.org/ "date-fns"): manipulação de datas;
+   - [gesture-handler](https://docs.expo.io/versions/latest/sdk/gesture-handler/ "gesture-handler"): capturar e utilizar gestos e toques do usuário;
+   - [date-time-picker](https://docs.expo.io/versions/latest/sdk/date-time-picker/ "date-time-picker"): adicionarw idget de selecionar datas e horários nativo de cada plataforma;
+   - [react-navegation](https://reactnavigation.org/ "react-navigation"): navgeação dentro do app;
+   - [async-storage](https://docs.expo.io/versions/latest/sdk/async-storage/ "async-storage"): API de armazenamento valor-chave assíncrona, não criptografada e persistente;
+   - [bottom-tabs](https://reactnavigation.org/docs/bottom-tab-navigator/ "bottom-tabs"): Uma barra de guias simples na parte inferior da tela que permite alternar entre diferentes rotas;
+   - [notifications](https://docs.expo.io/versions/latest/sdk/notifications/ "notifications"): buscar tokens de notificação push e para apresentar, agendar, receber e responder a notificações;
 
 
 ## Features ✔️
