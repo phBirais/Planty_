@@ -6,6 +6,9 @@ Planty é um gerenciador de plantas para sua casa onde você pode adicionar e se
 
 ## Como funciona? ❓
 
+[![](http://img.youtube.com/vi/GfmHiLHxf4c/0.jpg)](http://www.youtube.com/watch?v=GfmHiLHxf4c "funcionamento")
+
+
 ## Tecnologias utilizadas 🧑‍💻
 
 Para desenvolver este projeto, diversas tecnologias e libs foram utiilizadas. Abaixo estão listadas algumas e como foram aplicadas no App:
